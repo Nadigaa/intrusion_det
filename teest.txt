@@ -1,0 +1,3 @@
+cd C:\Users\nadig\Desktop\intrusion-detection
+python client_upload.py
+uvicorn scripts.api:app --reload
